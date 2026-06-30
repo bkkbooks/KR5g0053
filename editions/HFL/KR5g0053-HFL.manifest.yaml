@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5g0053/HFL/v1
+canonical_location: https://kanripo.org/bkk/KR5g0053/HFL/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 受籙次第法信儀
+  date: '2015-08-29 02:49:34.287295'
+  source:
+    repository: kanripo
+    path: KR5g0053
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0053_000-HFL.yaml, hash: 'sha256:8da0c1fc6a7764daf755f630110f1851013cfbbb06f4d23f917f56d1e4ffb6d4'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0053_000-HFL.markers.yaml, hash: 'sha256:244f1d5b92eec3e967c1d8e0bc21775160980d0fbd55bd98f59a037c38243e80'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0053_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 5971
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:469dac6a3947f6b2e0377c3f092d331cbf1807c22cfd6dfc1c5b85b40ef34725
